@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 
-public class GitletUtils {
+public class GitletUtils { 
 
     /* deserializes the .ser file at fileName*/
     public static Object deSerialize(String fileName) {
