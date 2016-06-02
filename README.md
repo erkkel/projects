@@ -1,6 +1,15 @@
 # projects
 Cool projects I've been working on
 
+## Github Command and Control Trojan
+1. Program that can pull and execute arbitrary code uploaded to my GIthub account
+
+2. Hacked Python import statements to allow importing modules from Github
+
+3. Each trojan is given an id and a configuration file tells the trojan exactly what to do based on the id. For example, specific code can be given for a trojan with id "a" and difference code can be given from trojan "b"
+
+4. Multihreading capabilities
+
 ## gitlet
 1. Mini version of popular version-controls system git
 
@@ -18,9 +27,6 @@ Cool projects I've been working on
 2. Segmented information of a word into the following categories: length of words, synonyms to the word, number of times the word appeared in a given year, number of times the word appeared in all years, and comparisons in how frequently two or more different words have appeared, information on the relative popularity of the category of word
 
 3. Can generate graphs for visual comparisons
-
-## Trie
-1. Implementation of the ADT here: https://en.wikipedia.org/wiki/Ternary_search_tree
 
 ## Checkers+
 1. Checkers implementation with a twist--has bomb pieces that will explode
