@@ -8,7 +8,7 @@ Cool projects I've been working on
 
 3. Each trojan is given an id and a configuration file tells the trojan exactly what to do based on the id. For example, specific code can be given for a trojan with id "a" and difference code can be given from trojan "b"
 
-4. Multihreading capabilities
+4. Multithreading capabilities
 
 ## gitlet
 1. Mini version of popular version-controls system git
